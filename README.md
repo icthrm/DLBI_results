@@ -1,7 +1,24 @@
 # super-resolution_microscopy
 
-The real datasets are copied from http://ear.ict.ac.cn/?page_id=207
+This is the demonstration of the results from "DLBI: Deep learning guided Bayesian inference for structure reconstruction of super-resolution fluorescence microscopy", including the full-resolution super-resolution images, videos and the used datasets.
 
-These datasets are owned by Professor Pingyong Xu’s group, and any people who want to use these data should cite the paper “Live-cell single molecule-guided Bayesian localization super-resolution microscopy” and “Rational design of true monomeric and bright photoactivatable fluorescent proteins”. For further information, please contact zhangfa@ict.ac.cn, pyxu@ibp.ac.cn.
+• real1.avi: Movie of the first real-world dataset (Actin1).
 
-The result is runed by "DLBI: Deep learning guided Bayesian inference for structure reconstruction of super-resolution fluorescence microscopy"
+• real2.avi: Movie of the second real-world dataset (Actin2).
+
+• real3.avi: Movie of the third real-world dataset (ER).
+
+• real1.png: Large-field reconstruction of the yellow area from the first real-world dataset (Actin1).
+
+• real2.png: Large-field reconstruction of the yellow area from the second real-world dataset (Actin2).
+
+• real3.png: Large-field reconstruction of the yellow area from the third real-world dataset (ER).
+
+• CC.png: Overlap of the reconstruction images by DLBI (in red) and PALM (in green) (Actin1).
+
+And real1.tif, real2.tif and real3.tif are the corresponding original high-density fluorecent images.
+
+Please note that the real datasets real1.tif, real2.tif and real3.tif are distributed under providing of Professor Xu and Professor Zhang (http://ear.ict.ac.cn/?page_id=207). People who what to use them alone should also cite the paper "Rational design of true monomeric and bright photoactivatable fluorescent proteins".
+
+
+
